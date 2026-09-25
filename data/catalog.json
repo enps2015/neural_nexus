@@ -1,0 +1,361 @@
+{
+  "project": "NEURAL NEXUS — Fundamentos de Neurociências",
+  "version": "1.0.0",
+  "status": "em desenvolvimento",
+  "editorial_rule": "Os identificadores A01–A20 pertencem à Série A — Conceitos Essenciais. Os identificadores A01.1–A01.10 pertencem à sequência didática da Camada Transversal — Biologia Base, Módulo 01 — Biologia Celular para Neurociência. A notação A01.x não deve ser interpretada como item da Série A principal.",
+  "sequence_plan_biology_base_module_01": [
+    {
+      "id": "A01.1",
+      "title": "A célula animal como sistema",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.2",
+      "title": "A membrana plasmática",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.3",
+      "title": "Organelas essenciais para o neurônio",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.4",
+      "title": "Transporte pela membrana",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.5",
+      "title": "Gradiente de concentração",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.6",
+      "title": "Íons e carga elétrica",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.7",
+      "title": "ATP e energia celular",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.8",
+      "title": "Proteínas como máquinas celulares",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.9",
+      "title": "Homeostase celular",
+      "status": "produzido"
+    },
+    {
+      "id": "A01.10",
+      "title": "Da célula ao neurônio",
+      "status": "produzido"
+    }
+  ],
+  "total_infographics": 30,
+  "items": [
+    {
+      "id": "A01.1",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "A célula animal como sistema",
+      "filename": "A01.1.png",
+      "path": "content/infographics/biology-base/module-01/A01.1.png"
+    },
+    {
+      "id": "A01.2",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "A membrana plasmática",
+      "filename": "A01.2.png",
+      "path": "content/infographics/biology-base/module-01/A01.2.png"
+    },
+    {
+      "id": "A01.3",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Organelas essenciais para o neurônio",
+      "filename": "A01.3.png",
+      "path": "content/infographics/biology-base/module-01/A01.3.png"
+    },
+    {
+      "id": "A01.4",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Transporte pela membrana",
+      "filename": "A01.4.png",
+      "path": "content/infographics/biology-base/module-01/A01.4.png"
+    },
+    {
+      "id": "A01.5",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Gradiente de concentração",
+      "filename": "A01.5.png",
+      "path": "content/infographics/biology-base/module-01/A01.5.png"
+    },
+    {
+      "id": "A01.6",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Íons e carga elétrica",
+      "filename": "A01.6.png",
+      "path": "content/infographics/biology-base/module-01/A01.6.png"
+    },
+    {
+      "id": "A01.7",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "ATP e energia celular",
+      "filename": "A01.7.png",
+      "path": "content/infographics/biology-base/module-01/A01.7.png"
+    },
+    {
+      "id": "A01.8",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Proteínas como máquinas celulares",
+      "filename": "A01.8.png",
+      "path": "content/infographics/biology-base/module-01/A01.8.png"
+    },
+    {
+      "id": "A01.9",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Homeostase celular",
+      "filename": "A01.9.png",
+      "path": "content/infographics/biology-base/module-01/A01.9.png"
+    },
+    {
+      "id": "A01.10",
+      "layer": "biology-base",
+      "series": "biology-base",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Da célula ao neurônio",
+      "filename": "A01.10.png",
+      "path": "content/infographics/biology-base/module-01/A01.10.png"
+    },
+    {
+      "id": "B01.1",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Membrana em escala molecular",
+      "filename": "B01.1.png",
+      "path": "content/infographics/series-b/module-01/B01.1.png"
+    },
+    {
+      "id": "B01.2",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Canal iônico",
+      "filename": "B01.2.png",
+      "path": "content/infographics/series-b/module-01/B01.2.png"
+    },
+    {
+      "id": "B01.3",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Bomba Na⁺/K⁺",
+      "filename": "B01.3.png",
+      "path": "content/infographics/series-b/module-01/B01.3.png"
+    },
+    {
+      "id": "B01.4",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Gradiente eletroquímico",
+      "filename": "B01.4.png",
+      "path": "content/infographics/series-b/module-01/B01.4.png"
+    },
+    {
+      "id": "B01.5",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Mitocôndria neuronal",
+      "filename": "B01.5.png",
+      "path": "content/infographics/series-b/module-01/B01.5.png"
+    },
+    {
+      "id": "B01.6",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Proteína de membrana",
+      "filename": "B01.6.png",
+      "path": "content/infographics/series-b/module-01/B01.6.png"
+    },
+    {
+      "id": "B01.7",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Comunicação celular",
+      "filename": "B01.7.png",
+      "path": "content/infographics/series-b/module-01/B01.7.png"
+    },
+    {
+      "id": "B01.8",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": "Mapa de pré-requisitos para o potencial de ação",
+      "filename": "B01.8.png",
+      "path": "content/infographics/series-b/module-01/B01.8.png"
+    },
+    {
+      "id": "B01.9",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.9.png",
+      "path": "content/infographics/series-b/module-01/B01.9.png"
+    },
+    {
+      "id": "B01.10",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.10.png",
+      "path": "content/infographics/series-b/module-01/B01.10.png"
+    },
+    {
+      "id": "B01.11",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.11.png",
+      "path": "content/infographics/series-b/module-01/B01.11.png"
+    },
+    {
+      "id": "B01.12",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.12.png",
+      "path": "content/infographics/series-b/module-01/B01.12.png"
+    },
+    {
+      "id": "B01.13",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.13.png",
+      "path": "content/infographics/series-b/module-01/B01.13.png"
+    },
+    {
+      "id": "B01.14",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.14.png",
+      "path": "content/infographics/series-b/module-01/B01.14.png"
+    },
+    {
+      "id": "B01.15",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.15.png",
+      "path": "content/infographics/series-b/module-01/B01.15.png"
+    },
+    {
+      "id": "B01.16",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.16.png",
+      "path": "content/infographics/series-b/module-01/B01.16.png"
+    },
+    {
+      "id": "B01.17",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.17.png",
+      "path": "content/infographics/series-b/module-01/B01.17.png"
+    },
+    {
+      "id": "B01.18",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.18.png",
+      "path": "content/infographics/series-b/module-01/B01.18.png"
+    },
+    {
+      "id": "B01.19",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.19.png",
+      "path": "content/infographics/series-b/module-01/B01.19.png"
+    },
+    {
+      "id": "B01.20",
+      "layer": "series-b",
+      "series": "B",
+      "module": "01",
+      "module_title": "Biologia Celular para Neurociência",
+      "title": null,
+      "filename": "B01.20.png",
+      "path": "content/infographics/series-b/module-01/B01.20.png"
+    }
+  ]
+}

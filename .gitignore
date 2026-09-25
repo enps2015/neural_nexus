@@ -1,0 +1,51 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+.directory
+*.Desktop
+
+# Arquivos temporários e locks de editores / LibreOffice / MS Office
+.~lock.*
+~$*.docx
+*.tmp
+*.bak
+*.swp
+*~
+
+# Credenciais, segredos e configurações de ambiente local
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.cert
+*.crt
+credentials/
+secrets/
+
+# Proteção contra pastas ou arquivos pessoais locais acidentais
+# (Não bloqueia PDFs nem documentos legítimos do projeto)
+personal/
+private/
+*.local
+*.personal.*
+*.private.*
+
+# Configurações de IDE / Editores
+.vscode/
+.idea/
+
+# Dependências, caches e builds da futura camada web (site / GitHub Pages)
+node_modules/
+dist/
+build/
+.next/
+out/
+.astro/
+.cache/
+
+# Logs de execução
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
