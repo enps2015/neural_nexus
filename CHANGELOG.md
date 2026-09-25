@@ -14,12 +14,17 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
     - `A01.8`: Proteínas como Máquinas Celulares
     - `A01.9`: Homeostase Celular
     - `A01.10`: Da Célula ao Neurônio
-- **Documentação Curricular**:
+- **Identidade Visual**:
+  - Adicionada imagem institucional de capa: `assets/branding/neural-nexus-readme-hero.png` (16:9, *"Da escala molecular ao comportamento"*).
+- **Licenciamento**:
+  - Formalizada a licença oficial **Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)** para todo o acervo educacional.
+- **Documentação Curricular e Governança**:
   - Inclusão do documento `docs/curriculum/Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v2.0.docx` (versão 2.0 com governança curricular expandida e arquétipos visuais da Série A e Série B).
+  - Identificação padronizada da versão histórica como `docs/curriculum/Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v1.0.docx`.
 - **Catálogo e Metadados**:
-  - `data/catalog.json`: Atualizado para 30 infográficos com status `"produzido"` em toda a sequência didática `A01.1`–`A01.10`.
-- **Versionamento Remoto**:
-  - Publicação inicial no repositório GitHub (`https://github.com/enps2015/neural_nexus`).
+  - `data/catalog.json`: Atualizado para versão `1.1.0` com 30 infográficos auditados e status `"produzido"` em toda a sequência didática `A01.1`–`A01.10`.
+- **Versionamento Remoto e Baseline**:
+  - Publicação e consolidação da baseline no repositório GitHub oficial ([`https://github.com/enps2015/neural_nexus`](https://github.com/enps2015/neural_nexus)).
 
 ## [1.0.0] - 2026-09-24
 

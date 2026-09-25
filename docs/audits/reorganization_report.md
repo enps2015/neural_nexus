@@ -164,4 +164,29 @@ Após a migração física, os hashes criptográficos SHA-256 de todos os 26 inf
 * **Total de Ativos:** O acervo atinge **30 infográficos** produzidos (10 de Biologia Base + 20 da Série B).
 * **Sincronização:** `data/catalog.json`, `README.md` e `CHANGELOG.md` atualizados para refletir o status de produção completa do Módulo 01 da Camada Biologia Base.
 
+---
+
+## 8. Post-Release Audit — v1.1.0
+
+* **Data da Auditoria:** 25 de Setembro de 2026
+* **Repositório Oficial:** [https://github.com/enps2015/neural_nexus](https://github.com/enps2015/neural_nexus)
+* **Release Inicial Publicada:** Commit inicial `b61afdc` enviado com sucesso para o branch `main` remoto.
+* **Estado Atual do Acervo (30 Infográficos Produzidos):**
+  - **Camada Transversal — Biologia Base (Módulo 01):** 10 infográficos (`A01.1` a `A01.10`) 100% concluídos e íntegros.
+  - **Série B — NeuroAtlas / Zoom (Módulo 01):** 20 pranchas (`B01.1` a `B01.20`) produzidas e íntegras.
+  - **Série A — Conceitos Essenciais:** Diretório `series-a/` reservado com `.gitkeep` para a produção futura dos itens `A01` a `A20`.
+* **Sincronização de Metadados e Catálogo:**
+  - `data/catalog.json` atualizado para a versão `1.1.0`, com total oficial de 30 itens e sequência didática da Biologia Base integralmente marcada como `"produzido"`.
+  - Títulos de `B01.1` a `B01.8` sincronizados com a documentação editorial; `B01.9` a `B01.20` preservados como `null` sem títulos fictícios.
+* **Documentação Curricular:**
+  - Versão histórica formalmente identificada como `docs/curriculum/Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v1.0.docx`.
+  - Versão ativa e expandida consolidada como `docs/curriculum/Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v2.0.docx`.
+* **Licenciamento Oficial Formalizado:**
+  - Licença educacional **Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)** formalizada no arquivo `LICENSE` e documentada no `README.md`.
+* **Identidade Visual e Hero Image:**
+  - Imagem de capa institucional gerada e incorporada: `assets/branding/neural-nexus-readme-hero.png` (16:9, 1600×900, *"Da escala molecular ao comportamento"*).
+* **Prontidão Editorial:**
+  - Baseline v1.1.0 do repositório consolidada, auditada e 100% preparada para a próxima etapa do projeto: o início da **Série A — Conceitos Essenciais**.
+
+
 

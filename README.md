@@ -2,8 +2,10 @@
 
 > *“Não decorar o cérebro. Aprender a raciocinar sobre ele.”*  
 > **Autor:** Eric Pimentel • Estudos Independentes em Neurociência e Comportamento (2026)  
-> **Coleção Educacional Autoral • Em Desenvolvimento**  
-> **Repositório:** [github.com/ericpimentel/neural-nexus](https://github.com/ericpimentel/neural-nexus)
+> **Repositório Oficial:** [https://github.com/enps2015/neural_nexus](https://github.com/enps2015/neural_nexus)  
+> **Licença:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+![NEURAL NEXUS — Da escala molecular ao comportamento](assets/branding/neural-nexus-readme-hero.png)
 
 ---
 
@@ -61,13 +63,13 @@ Cada conceito ou sistema responde sistematicamente a cinco perguntas essenciais:
 
 ---
 
-## 4. Status Atual: Repositório em Desenvolvimento
+## 4. Status Atual da Coleção
 
-O repositório conta atualmente com **30 infográficos produzidos e íntegros**:
-* **Camada Biologia Base (Módulo 01 — Biologia Celular):** Sequência didática completa de nivelamento (`A01.1` a `A01.10`) produzida e validada.
-* **Série B (NeuroAtlas / Zoom — Módulo 01):** `B01.1` a `B01.20` produzidos.
-* **Série A Principal:** Diretório `series-a/` reservado para os infográficos `A01` a `A20` conforme cronograma curricular.
-* **Governança e Escalabilidade:** A arquitetura do repositório está plenamente normalizada e documentada em `docs/` (incluindo o Mapa Curricular Mestre v2.0).
+O repositório conta atualmente com **30 infográficos produzidos e auditados**:
+* **Camada Transversal — Biologia Base (Módulo 01 — Biologia Celular):** Sequência didática completa de nivelamento (`A01.1` a `A01.10`) produzida e validada (10 infográficos).
+* **Série B — NeuroAtlas / Zoom (Módulo 01):** 20 pranchas produzidas (`B01.1` a `B01.20`).
+* **Série A — Conceitos Essenciais:** Diretório `series-a/` reservado para os infográficos oficiais `A01` a `A20` conforme matriz curricular. A produção da Série A será iniciada na próxima etapa.
+* **Governança e Documentação:** Arquitetura curricular estabelecida no Mapa Curricular Mestre v2.0 ([`docs/curriculum/Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v2.0.docx`](docs/curriculum/Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v2.0.docx)) e Blueprints editoriais em `docs/editorial/`.
 
 ---
 
@@ -109,34 +111,44 @@ O repositório adota uma estrutura limpa, modular e preparada para escalabilidad
 ```text
 neural_nexus/
 ├── README.md              # Apresentação do projeto, arquitetura e navegação
-├── LICENSE                # Termos de autoria e declaração de licenciamento
+├── LICENSE                # Licença oficial CC BY-SA 4.0
 ├── CHANGELOG.md           # Histórico de alterações e versões da coleção
 ├── .gitignore             # Regras de exclusão para arquivos locais, locks e sistema
 ├── assets/                # Ativos visuais do repositório
-│   ├── branding/          # Logomarcas, banners e assinaturas (.gitkeep)
+│   ├── branding/          # Hero banner institucional e logomarcas
+│   │   ├── neural-nexus-readme-hero.png
+│   │   └── .gitkeep
 │   └── icons/             # Favicons e ícones gráficos (.gitkeep)
 ├── content/               # Acervo didático principal
 │   └── infographics/      # Infográficos organizados por camada e módulo
 │       ├── series-a/      # Reservado para Série A principal (A01–A20) (.gitkeep)
 │       ├── series-b/
-│       │   └── module-01/ # B01.1.png a B01.20.png
+│       │   └── module-01/ # B01.1.png a B01.20.png (20 pranchas)
 │       └── biology-base/
-│           └── module-01/ # A01.1.png a A01.10.png
+│           └── module-01/ # A01.1.png a A01.10.png (10 infográficos)
 ├── docs/                  # Documentação editorial e pedagógica
-│   ├── curriculum/        # Mapa curricular mestre (14 módulos)
+│   ├── curriculum/        # Mapas curriculares da coleção
+│   │   ├── Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v1.0.docx  # Versão histórica v1.0
+│   │   └── Mapa_Curricular_Mestre_Fundamentos_de_Neurociencias_v2.0.docx  # Versão atualizada v2.0
 │   ├── editorial/         # Visual Identity System, Blueprints e Templates
 │   └── audits/            # Relatórios de auditoria e conformidade técnica
 ├── data/
-│   └── catalog.json       # Catálogo indexado (IDs, títulos, camadas e caminhos)
+│   └── catalog.json       # Catálogo indexado oficial v1.1.0 (30 infográficos)
 └── site/                  # Preparação para futura camada web / GitHub Pages
     └── .gitkeep
 ```
 
 ---
 
-## 7. Licença e Direitos Autorais
+## 7. Licença Oficial
 
-* **Status:** **Em definição formal pelo autor.**
-* Todo o conteúdo visual, infográficos e textos desta coleção são de autoria de **Eric Pimentel** (2026), com direitos reservados.
-* A licença definitiva e as condições de uso público serão estabelecidas e formalizadas posteriormente pelo autor.
-* Para mais informações, consulte o arquivo [`LICENSE`](LICENSE).
+Todo o conteúdo educacional deste repositório — incluindo infográficos, pranchas visuais, textos didáticos, mapas curriculares, documentação e materiais editoriais — está formalmente licenciado sob a **[Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)**.
+
+### Resumo dos Termos:
+* **Compartilhar:** É permitido copiar e redistribuir o material em qualquer suporte ou formato.
+* **Adaptar / Remixar:** É permitido transformar, remixar e criar obras derivadas para qualquer finalidade, inclusive comercial.
+* **Atribuição Obrigatória:** É obrigatório atribuir a autoria a **Eric Pimentel**, fornecer o link para a licença e indicar se foram realizadas alterações.
+* **CompartilhaIgual:** Qualquer obra derivada ou adaptação deve ser obrigatoriamente distribuída sob a mesma licença (CC BY-SA 4.0) do material original.
+
+Para o texto jurídico integral e termos completos da licença, consulte o arquivo [`LICENSE`](LICENSE) e a [documentação oficial da Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/legalcode.pt).
+
